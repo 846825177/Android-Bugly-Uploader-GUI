@@ -4,6 +4,14 @@
 
 ---
 
+## ✨ 页面截图
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/3899e4fc-5a95-4875-89ed-4c6e58c7233c" />
+
+## ✨ 简单使用
+<img width="377" height="107" alt="image" src="https://github.com/user-attachments/assets/c1010384-6153-4d4c-bb17-40c51fc85b70" />
+
+---
+
 ## ✨ 功能简介
 
 - 💾 **配置持久化**：首次输入配置信息后会自动保存到 `config.txt`，下次打开自动加载。
